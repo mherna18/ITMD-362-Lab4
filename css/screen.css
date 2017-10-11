@@ -208,7 +208,9 @@ body {
 }
 
 /* ===== MODULAR STYLES ===== */
-
+form li {
+	padding-bottom: 1em;
+}
 /* ===== STATE STYLES ======= */
 h1 {
 	font-family: 'Roboto Condensed', sans-serif;
