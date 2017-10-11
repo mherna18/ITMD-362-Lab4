@@ -208,9 +208,15 @@ body {
 }
 
 /* ===== MODULAR STYLES ===== */
+
 form li {
 	padding-bottom: 1em;
 }
+
+#age-verification + label {
+	background-color: #D0D0D0;
+}
+
 /* ===== STATE STYLES ======= */
 h1 {
 	font-family: 'Roboto Condensed', sans-serif;
@@ -236,8 +242,4 @@ label {
 form,label {
 	display: inline;
 	text-align: center;
-}
-
-#age-verification + label {
-	background-color: #D0D0D0;
 }
